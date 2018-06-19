@@ -1,0 +1,12 @@
+{
+  "name": "ci-announcer-tester",
+  "version": "1.0.0",
+  "description": "Test repo for ci-announcer",
+  "main": "index.js",
+  "repository": "https://github.com/sirMerr/ci-announcer-tester.git",
+  "author": "Tiffany Le-Nguyen <letiffany.nguyen@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: This test is bound to fail!\" &&  exit 1"
+  }
+}
