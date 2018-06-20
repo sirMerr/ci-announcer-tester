@@ -7,6 +7,9 @@
   "author": "Tiffany Le-Nguyen <letiffany.nguyen@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: This test is bound to fail!\" &&  exit 1"
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.1.0"
   }
 }
